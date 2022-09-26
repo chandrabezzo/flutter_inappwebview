@@ -1,5 +1,7 @@
-## 5.4.3+7
+## 5.4.4
+- Fixed runnable in XCode 14
 
+## 5.4.3+7
 - Fixed possible Android java.lang.NullPointerException in "InAppBrowserActivity.onCreateOptionsMenu" about "webView.getTitle()"
 
 ## 5.4.3+6
